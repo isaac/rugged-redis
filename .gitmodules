@@ -1,6 +1,6 @@
 [submodule "vendor/libgit2-backends"]
 	path = vendor/libgit2-backends
-	url = https://github.com/JoeStanton/libgit2-backends.git
+	url = https://github.com/isaac/libgit2-backends.git
 	branch = redis-null-refs
 [submodule "vendor/hiredis"]
 	path = vendor/hiredis
